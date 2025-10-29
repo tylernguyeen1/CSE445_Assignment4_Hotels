@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+	<!-- Required sample from the prompt -->
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<!-- La Jolla / San Diego (near La Jolla) -->
+  <!-- Everything below is San diego La JOlla-->
+	<Hotel Rating="4.6">
+		<Name>La Valencia Hotel</Name>
+		<Phone>858-454-0771</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>1132</Number>
+			<Street>Prospect St</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Grande Colonial La Jolla</Name>
+		<Phone>858-454-2181</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>910</Number>
+			<Street>Prospect St</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Estancia La Jolla Hotel &amp; Spa</Name>
+		<Phone>858-550-1000</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>9700</Number>
+			<Street>N Torrey Pines Rd</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Hilton La Jolla Torrey Pines</Name>
+		<Phone>858-558-1500</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>10950</Number>
+			<Street>N Torrey Pines Rd</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>Sheraton La Jolla Hotel</Name>
+		<Phone>858-453-5500</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>3299</Number>
+			<Street>Holiday Ct</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Hotel La Jolla, Curio Collection by Hilton</Name>
+		<Phone>858-551-3600</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>7955</Number>
+			<Street>La Jolla Shores Dr</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>La Jolla Shores Hotel</Name>
+		<Phone>866-976-6659</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>8110</Number>
+			<Street>Camino Del Oro</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Pantai Inn</Name>
+		<Phone>858-224-7600</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>1003</Number>
+			<Street>Coast Blvd</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Empress Hotel La Jolla</Name>
+		<Phone>858-454-3001</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>7766</Number>
+			<Street>Fay Ave</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>Inn by the Sea at La Jolla</Name>
+		<Phone>858-459-4461</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>7830</Number>
+			<Street>Fay Ave</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
