@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Should be hotels but we use Hotel -->
+<Hotel>
+	<!-- Valid  -->
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<!-- missing rating-->
+	<Hotel>
+		<Name>La Valencia Hotel</Name>
+		<Phone>858-454-0771</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>1132</Number>
+			<Street>Prospect St</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<!-- missing phone-->
+	<Hotel Rating="4.5">
+		<Name>Grande Colonial La Jolla</Name>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>910</Number>
+			<Street>Prospect St</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<!-- missing closing tag-->
+	<Hotel Rating="4.4">
+		<Name>Estancia La Jolla Hotel &amp; Spa</Name>
+		<Phone>858-550-1000</Phone>
+		<Address NearestAirport="San Diego International (SAN)">
+			<Number>9700</Number>
+			<Street>N Torrey Pines Rd</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Hotel>
+		<!--two names-->
+		<Hotel Rating="4.2">
+			<Name>Hilton La Jolla Torrey Pines</Name>
+			<Name>Duplicate Name Should Not Exist</Name>
+			<Phone>858-558-1500</Phone>
+			<Address NearestAirport="San Diego International (SAN)">
+				<Number>10950</Number>
+				<Street>N Torrey Pines Rd</Street>
+				<City>La Jolla</City>
+				<State>CA</State>
+				<Zip>92037</Zip>
+			</Address>
+		</Hotel>
+	</Hotel>
